@@ -6,4 +6,5 @@ int main (){
   printf("Digite um valor");
     scanf("%d", &impresao);
     printf("O valor é: %d", impresao);
+    return(0);
   }
